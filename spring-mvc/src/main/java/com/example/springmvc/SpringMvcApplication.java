@@ -6,7 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * This class runs spring application.
  */
-
 @SpringBootApplication
 public class SpringMvcApplication {
 
